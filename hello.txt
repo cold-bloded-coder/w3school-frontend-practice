@@ -1,0 +1,5 @@
+Hello world this is a guide for the following project.
+index.html - this file is a home HTML file which is used for navigation of the entire project
+folder - folder/directory names are month names in which the project/document was created 
+file - file names indicate the date "xx" which is the date of the day the project was created.
+css file - currently there is one css file for each month but if the css file gets to more than 500 lines a new css file with the sufffex number incremented. i.e style1.css next file is style2.css 

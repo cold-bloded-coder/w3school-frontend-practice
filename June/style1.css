@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Sofia&family=Trirong&family=Audiowide&family=roboto");
+
+.h2-s1-p1 {
+  font-family: "Sofia", sans-serif;
+}
+
+.h2-s1-p2 {
+  font-family: "Trirong", sans-serif;
+}
+
+.h2-s1-p3 {
+  font-family: "audiowide", sans-serif;
+}
+
+.h2-s1-p4 {
+    font-family: "roboto", sans-serif;
+}
+
+.h2-s1-p5{
+    font-family: "roboto", sans-serif;
+    text-shadow: 3px 3px 3px #ababab;
+    font-size: 1.2em;
+}
+
+ol[class="code"] {
+    padding: 12px 50px;
+}
